@@ -63,3 +63,7 @@ let children;
 7. BigInt (ES2020): Larger integers that the Number type can hold
 
 **JavaScript has dynamic typing: We do not have to manually define the data type of the value stored in a variable. Instead, data types are termined automatically.**
+
+let age = 30;
+age = 31; //mutable variable
+
