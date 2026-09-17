@@ -69,4 +69,6 @@ if (numNeighbors === 1) { // Use strict equality operator to check if numNeighbo
     console.log('More than 1 border');
 } else console.log('No borders');
 
+*/
+
 

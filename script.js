@@ -199,7 +199,7 @@ if (height) {
     console.log('Height is UNDEFINED');
 }
 
-//**EQUALITY OPERATORS**// == vs ===
+//**EQUALITY OPERATORS** // == vs === //
 
 const age = '18';
 if (age === 18) console.log('You just became an adult :D (strict)');
@@ -223,5 +223,6 @@ if (favourite === 23) { // '23' == 23 -> FALSE
 if (favourite !== 23) console.log('Why not 23?');
 
 //Boolean logic//
+*/
 
 
