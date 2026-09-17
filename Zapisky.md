@@ -67,3 +67,33 @@ let children;
 let age = 30;
 age = 31; //mutable variable
 
+
+#TEMPLE STRINGS#
+const robertNew = ` I am ${firstName}, a ${year - birthYear} years old ${job}!`
+
+TEMPLATE LITERALS
+console.log(`String
+multimple
+lines`);
+
+#DECISIONS - IF/ELSE STATEMENTS#
+
+//Boolean logic//
+
+AND, OR & NOT OPERATORS
+A AND B
+"Sarah has a driver's licence and good vision"
+---> TRUE when ALL are TRUE
+
+A OR B
+"Sarah has a driver's licence or good vision"
+---> TRUE when ONE is TRUE
+
+NOT A, NOT B
+Inverts true/false value
+
+age = 16
+Boolean variables
+A: Age is greater or equal 20 - false
+B: Age is less than 30 - true
+
